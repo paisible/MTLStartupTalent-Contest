@@ -213,9 +213,10 @@ footer{
 	}
 	
 	#content h4{
-		width:75%;
+		width:100%;
 		margin-left:auto;
 		margin-right:auto;
+		font-size:0.9em;
 	}
 	.q{
 		font-size:1.3em
