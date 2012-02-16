@@ -29,6 +29,10 @@ app.get('/', function(req, res){
 	res.render('index.html');
 });
 
+app.get('/fr', function(req, res){
+	res.render('index_fr.html');
+});
+
 app.get('/register', function(req,res){
 	res.render('register.html');
 });
