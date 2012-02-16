@@ -114,6 +114,8 @@ footer{
 
 #slogan{
 	text-align:center;
+	font-size:1.5em;
+	color:#e83045;
 }
 
 .register{
@@ -194,6 +196,7 @@ footer{
 	
 	header img{
 		float:none;
+		width:200px;
 	}
 	
 	header h2{
@@ -217,6 +220,9 @@ footer{
 	.q{
 		font-size:1.3em
 	}
+	.a{
+		font-size:0.9em;
+	}
 	.register_btn{
 		font-size:1.2em;
 		padding:25px;
@@ -225,6 +231,8 @@ footer{
 	header{
 		text-align:center;
 	}
-	
+	#slogan{
+		font-size:1.2em;
+	}
 
 }
