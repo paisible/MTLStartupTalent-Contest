@@ -1,0 +1,19 @@
+.register_btn{
+	element.style {
+	font-size: 2.2em;
+	padding: 20px;
+	width: 90%;
+}
+
+header h2{
+	font-size:2.3em;
+	text-align:center;
+}
+
+header h2{
+	font-size: 1.3em;
+	line-height: 25px;
+	width: 320px;
+	padding-left: 0px;
+	border-left: none;
+}
