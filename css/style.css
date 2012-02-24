@@ -94,7 +94,8 @@ footer{
 	border-bottom-left-radius: 6px;
 	text-shadow: rgba(0,0,0,0.246094) 0px -1px 0px;
 	color: white;
-	background-image: -webkit-linear-gradient(top,rgb(0,136,204),rgb(0,68,204));
+	/*background-image: -webkit-linear-gradient(top,rgb(0,136,204),rgb(0,68,204));*/
+	background-image: -webkit-linear-gradient(top,#aaa,#ddd);
 	border-top-color: rgba(0,0,0,0.0976563);
 	border-right-color: rgba(0,0,0,0.0976563);
 	border-bottom-color: rgba(0,0,0,0.0976563);
